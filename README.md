@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/68988781/205488520-89c0ee52-ae67-48cd-918e-72e96ce79789.png)
 
 - Paste as many URL's as you want!
-- Download all mp3 files in best quality (160kbps) at once!
+- Download all mp3 files in best available quality (160kbps) at once!
 - All downloaded files are stored in `Downloads` directory in the same place where the binary file is.
 
 ## Important notes:
