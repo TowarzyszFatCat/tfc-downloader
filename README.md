@@ -6,16 +6,14 @@
 - Download all mp3 files in best quality (160kbps) at once!
 - All downloaded files are stored in `Downloads` directory in the same place where the binary file is.
 
-## Important notes
+## Important notes:
 - After you click download you have to **wait**! (depending on how much are you downloading) It may take a few minutes. The program may look **jammed**, but it is actually downloading files!
 
 ## Further goals:
 - Add support for video files and other formats
 - Make more usable gui with options
 
-<br>
-
-## Other
+## Other:
 - Binary file was built using [pyinstaller](https://pyinstaller.org/en/stable/).
 - Interface was created using [CustomTkinker](https://github.com/TomSchimansky/CustomTkinter) by [TomSchimansky](https://github.com/TomSchimansky)
 - **Feel free to modify source code as You want!**
