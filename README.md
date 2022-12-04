@@ -8,6 +8,9 @@
 
 ## Important notes:
 - After you click download you have to **wait**! (depending on how much are you downloading) It may take a few minutes. The program may look **jammed**, but it is actually downloading files!
+- How to run on linux:
+  - `sudo chmod +x <filename>`
+  -  Run: `./<filename>`
 
 ## Further goals:
 - Add support for video files and other formats
