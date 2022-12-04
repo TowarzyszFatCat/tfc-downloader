@@ -13,9 +13,9 @@
 - Add support for video files and other formats
 - Make more usable gui with options
 
-<br><br>
+<br>
 
-### Other
+## Other
 - Binary file was built using [pyinstaller](https://pyinstaller.org/en/stable/).
 - Interface was created using [CustomTkinker](https://github.com/TomSchimansky/CustomTkinter) by [TomSchimansky](https://github.com/TomSchimansky)
 - **Feel free to modify source code as You want!**
