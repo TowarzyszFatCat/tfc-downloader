@@ -15,4 +15,7 @@
 
 <br><br>
 
-### **Feel free to modify source code as You want!**
+### Other
+- Binary file was built using [pyinstaller](https://pyinstaller.org/en/stable/).
+- Interface was created using [CustomTkinker](https://github.com/TomSchimansky/CustomTkinter) by [TomSchimansky](https://github.com/TomSchimansky)
+- **Feel free to modify source code as You want!**
