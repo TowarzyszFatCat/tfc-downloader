@@ -8,7 +8,7 @@
 
 ## Important notes:
 - After you click download you have to **wait**! (depending on how much are you downloading) It may take a few minutes. The program may look **jammed**, but it is actually downloading files!
-- Converting to mp3 is work in progress! If you want true mp3 you can convert files using VLC. 
+- Converting to mp3 is work in progress! If you want true mp3 you need to convert files using VLC converter or other software. 
 - How to run on linux:
   - `sudo chmod +x <filename>`
   -  Run: `./<filename>`
